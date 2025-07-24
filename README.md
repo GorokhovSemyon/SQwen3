@@ -1,3 +1,3 @@
-# SQwen3
+# SQwen3 (Small Qwen3)
 
 Данный репозиторий представляет реализацию "маленькой" LLM с механизмом chain of thoughts.
